@@ -1,0 +1,5 @@
+name: balbMasterAnuncio
+author: Balbucio
+version: 1.0
+main: me.balbucio.masteranuncio.Main
+description: Faça anúncios de classe em seu servidor!
